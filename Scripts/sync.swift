@@ -66,12 +66,11 @@ let projects = [
    Project("LogglyService", "dev"),
    Project("MixpanelService", "main"),
    Project("OmniBLE", "dev"),
-   Project("ApexBLE", "dev"),
+   Project("ApexKitBLE", "dev"),
    Project("NightscoutRemoteCGM", "dev"),
    Project("LoopSupport", "dev"),
    Project("G7SensorKit", "main"),
    Project("OmniKit", "main"),
-   Project("ApexKit", "main"),
    Project("MinimedKit", "main"),
    Project("LibreTransmitter", "main")
 ]

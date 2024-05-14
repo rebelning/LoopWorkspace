@@ -58,9 +58,12 @@
 [submodule "LibreTransmitter"]
 	path = LibreTransmitter
 	url = https://github.com/LoopKit/LibreTransmitter.git
-[submodule "ApexKit"]
-	path = ApexKit
-	url = https://github.com/rebelning/ApexKit
 [submodule "ApexBLE"]
 	path = ApexBLE
 	url = https://github.com/rebelning/ApexBLE
+[submodule "DanaKit"]
+	path = DanaKit
+	url = https://github.com/bastiaanv/DanaKit.git
+[submodule "ApexKitBLE"]
+	path = ApexKitBLE
+	url = https://github.com/rebelning/ApexKitBLE

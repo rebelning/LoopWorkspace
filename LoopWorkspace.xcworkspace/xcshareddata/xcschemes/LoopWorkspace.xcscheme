@@ -154,6 +154,20 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C187C196279086A8006E3557"
+               BuildableName = "ApexKitBLEPlugin.loopplugin"
+               BlueprintName = "ApexKitBLEPlugin"
+               ReferencedContainer = "container:ApexKitBLE/ApexKitBLE.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "C124021629C7D93D00B32844"
                BuildableName = "OmniKitPlugin.loopplugin"
                BlueprintName = "OmniKitPlugin"
@@ -169,23 +183,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C187C196279086A8006E3557"
-               BuildableName = "OmniBLEPlugin.loopplugin"
-               BlueprintName = "OmniBLEPlugin"
-               ReferencedContainer = "container:OmniBLE/OmniBLE.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C124021629C7D93D00B32844"
-               BuildableName = "ApexKitPlugin.loopplugin"
-               BlueprintName = "ApexKitPlugin"
-               ReferencedContainer = "container:ApexKit/ApexKit.xcodeproj">
+               BuildableName = "DanaKitPlugin.loopplugin"
+               BlueprintName = "DanaKitPlugin"
+               ReferencedContainer = "container:DanaKit/DanaKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -197,9 +197,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C187C196279086A8006E3557"
-               BuildableName = "ApexBLEPlugin.loopplugin"
-               BlueprintName = "ApexBLEPlugin"
-               ReferencedContainer = "container:ApexBLE/ApexBLE.xcodeproj">
+               BuildableName = "OmniBLEPlugin.loopplugin"
+               BlueprintName = "OmniBLEPlugin"
+               ReferencedContainer = "container:OmniBLE/OmniBLE.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -449,23 +449,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "84752E8A26ED0FFE009FD801"
-               BuildableName = "ApexBLETests.xctest"
-               BlueprintName = "ApexBLETests"
-               ReferencedContainer = "container:ApexBLE/ApexBLE.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "NO"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C12ED9C929C7DBA900435701"
-               BuildableName = "ApexKitTests.xctest"
-               BlueprintName = "ApexKitTests"
-               ReferencedContainer = "container:ApexKit/ApexKit.xcodeproj">
+               BuildableName = "ApexKitBLETests.xctest"
+               BlueprintName = "ApexKitBLETests"
+               ReferencedContainer = "container:ApexKitBLE/ApexKitBLE.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
