@@ -175,14 +175,14 @@
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
+            buildForTesting = "NO"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C187C196279086A8006E3557"
+               BlueprintIdentifier = "C187C166279086A8006E3557"
                BuildableName = "DanaKitPlugin.loopplugin"
                BlueprintName = "DanaKitPlugin"
                ReferencedContainer = "container:DanaKit/DanaKit.xcodeproj">
@@ -454,6 +454,20 @@
                ReferencedContainer = "container:ApexKitBLE/ApexKitBLE.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C12ED9C929C7DBA900435701"
+               BuildableName = "OmniKitTests.xctest"
+               BlueprintName = "OmniKitTests"
+               ReferencedContainer = "container:OmniKit/OmniKit.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
@@ -559,16 +573,6 @@
                BuildableName = "MinimedKitTests.xctest"
                BlueprintName = "MinimedKitTests"
                ReferencedContainer = "container:MinimedKit/MinimedKit.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C12ED9C929C7DBA900435701"
-               BuildableName = "OmniKitTests.xctest"
-               BlueprintName = "OmniKitTests"
-               ReferencedContainer = "container:OmniKit/OmniKit.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
