@@ -42,7 +42,7 @@
       "location" : "https://github.com/mixpanel/mixpanel-swift.git",
       "state" : {
         "branch" : "master",
-        "revision" : "c676a9737c76e127e3ae5776247b226bc6d7652d"
+        "revision" : "e7869c433ee01cdc52aa14abf636fe0b412d72f8"
       }
     },
     {
@@ -95,7 +95,7 @@
       "location" : "https://github.com/tidepool-org/TidepoolKit",
       "state" : {
         "branch" : "dev",
-        "revision" : "54045c2e7d720dcd8a0909037772dcd6f54f0158"
+        "revision" : "5c92b4ffc29cabf07609b367e3f82d0f733a6bc1"
       }
     },
     {
