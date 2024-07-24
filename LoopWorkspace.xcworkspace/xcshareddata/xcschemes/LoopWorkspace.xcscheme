@@ -140,6 +140,20 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A99C713023396CB100AB9035"
+               BuildableName = "WTScoutServiceKitPlugin.loopplugin"
+               BlueprintName = "WTScoutServiceKitPlugin"
+               ReferencedContainer = "container:WTScoutService/WTScoutService.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "C1E34B5A29C7AD01009A50A5"
                BuildableName = "MinimedKitPlugin.loopplugin"
                BlueprintName = "MinimedKitPlugin"
@@ -424,6 +438,20 @@
                BuildableName = "NightscoutServiceKitTests.xctest"
                BlueprintName = "NightscoutServiceKitTests"
                ReferencedContainer = "container:NightscoutService/NightscoutService.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A91BAC2322BC691A00ABF1BB"
+               BuildableName = "WTScoutServiceKitTests.xctest"
+               BlueprintName = "WTScoutServiceKitTests"
+               ReferencedContainer = "container:WTScoutService/WTScoutService.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry

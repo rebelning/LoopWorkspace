@@ -99,6 +99,15 @@
       }
     },
     {
+      "identity" : "wtscoutkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rebelning/WTScoutKit.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "01a232b44524fa17f4d3173144a88b03e4f3d9ae"
+      }
+    },
+    {
       "identity" : "zipfoundation",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/LoopKit/ZIPFoundation.git",
