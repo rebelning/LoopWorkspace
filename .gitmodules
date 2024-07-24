@@ -64,3 +64,6 @@
 [submodule "ApexKitBLE"]
 	path = ApexKitBLE
 	url = https://github.com/rebelning/ApexKitBLE
+[submodule "WTScoutService"]
+	path = WTScoutService
+	url = https://github.com/rebelning/WTScoutService.git
