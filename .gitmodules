@@ -67,3 +67,6 @@
 [submodule "WTScoutService"]
 	path = WTScoutService
 	url = https://github.com/rebelning/WTScoutService.git
+[submodule "WTScoutRemoteCGM"]
+	path = WTScoutRemoteCGM
+	url = https://github.com/rebelning/WTScoutRemoteCGM.git
