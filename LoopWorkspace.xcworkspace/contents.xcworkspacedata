@@ -70,6 +70,9 @@
       location = "group:NightscoutService/NightscoutService.xcodeproj">
    </FileRef>
    <FileRef
+      location = "group:WTScoutRemoteCGM/WTScoutRemoteCGM.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:WTScoutService/WTScoutService.xcodeproj">
    </FileRef>
    <FileRef
