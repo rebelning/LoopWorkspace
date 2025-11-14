@@ -182,6 +182,20 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C187C196279086A8006E3557"
+               BuildableName = "EmbectaKitBLEPlugin.loopplugin"
+               BlueprintName = "EmbectaKitBLEPlugin"
+               ReferencedContainer = "container:EmbectaKitBLE/EmbectaKitBLE.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "C124021629C7D93D00B32844"
                BuildableName = "OmniKitPlugin.loopplugin"
                BlueprintName = "OmniKitPlugin"
@@ -508,6 +522,20 @@
                BuildableName = "OmniKitTests.xctest"
                BlueprintName = "OmniKitTests"
                ReferencedContainer = "container:OmniKit/OmniKit.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "84752E8A26ED0FFE009FD801"
+               BuildableName = "EmbectaKitBLETests.xctest"
+               BlueprintName = "EmbectaKitBLETests"
+               ReferencedContainer = "container:EmbectaKitBLE/EmbectaKitBLE.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
