@@ -67,6 +67,7 @@ let projects = [
    Project("MixpanelService", "main"),
    Project("OmniBLE", "dev"),
    Project("ApexKitBLE", "dev"),
+   Project("EmbectaKitBLE", "master"),
    Project("NightscoutRemoteCGM", "dev"),
    Project("LoopSupport", "dev"),
    Project("G7SensorKit", "main"),

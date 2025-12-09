@@ -169,9 +169,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C187C196279086A8006E3557"
-               BuildableName = "ApexKitBLEPlugin.loopplugin"
-               BlueprintName = "ApexKitBLEPlugin"
-               ReferencedContainer = "container:ApexKitBLE/ApexKitBLE.xcodeproj">
+               BuildableName = "EmbectaKitBLEPlugin.loopplugin"
+               BlueprintName = "EmbectaKitBLEPlugin"
+               ReferencedContainer = "container:EmbectaKitBLE/EmbectaKitBLE.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -183,9 +183,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C187C196279086A8006E3557"
-               BuildableName = "EmbectaKitBLEPlugin.loopplugin"
-               BlueprintName = "EmbectaKitBLEPlugin"
-               ReferencedContainer = "container:EmbectaKitBLE/EmbectaKitBLE.xcodeproj">
+               BuildableName = "ApexKitBLEPlugin.loopplugin"
+               BlueprintName = "ApexKitBLEPlugin"
+               ReferencedContainer = "container:ApexKitBLE/ApexKitBLE.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -505,6 +505,20 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "84752E8A26ED0FFE009FD801"
+               BuildableName = "EmbectaKitBLETests.xctest"
+               BlueprintName = "EmbectaKitBLETests"
+               ReferencedContainer = "container:EmbectaKitBLE/EmbectaKitBLE.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "84752E8A26ED0FFE009FD801"
                BuildableName = "ApexKitBLETests.xctest"
                BlueprintName = "ApexKitBLETests"
                ReferencedContainer = "container:ApexKitBLE/ApexKitBLE.xcodeproj">
@@ -522,20 +536,6 @@
                BuildableName = "OmniKitTests.xctest"
                BlueprintName = "OmniKitTests"
                ReferencedContainer = "container:OmniKit/OmniKit.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "NO"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "84752E8A26ED0FFE009FD801"
-               BuildableName = "EmbectaKitBLETests.xctest"
-               BlueprintName = "EmbectaKitBLETests"
-               ReferencedContainer = "container:EmbectaKitBLE/EmbectaKitBLE.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
